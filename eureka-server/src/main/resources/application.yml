@@ -1,3 +1,6 @@
+# eureka所有注册的服务: http://localhost:8081/eureka/apps
+# eureka所有注册的指定服务: http://${host}:${port}/eureka/apps/${app_name}
+# eureka所有注册的指定服务: http://${host}:${port}/eureka/apps/${app_name}/${app_instance_id}
 server:
   port: 8081
 
