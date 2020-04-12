@@ -3,7 +3,7 @@ spring:
     name: config-client
 
 server:
-  port: 8091 #随机端口
+  port: 8091
 
 eureka:
   server: #官方不存在的配置（自定义配置）
